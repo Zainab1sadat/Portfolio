@@ -1,6 +1,6 @@
 # Portfolio
 Design Decisions
-Layout:
+Layout: 
 A one-page scrolling layout was chosen to keep all content in a single flow, minimizing navigation friction.
 Sections (Home, About, Portfolio, Contact) are clearly divided and anchor-linked for smooth user experience.
 Responsiveness:
